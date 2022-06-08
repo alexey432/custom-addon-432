@@ -1,16 +1,16 @@
 {
-  "name": "skhemata-storybook-widgetcode",
+  "name": "skhemata-storybook-widgetcode-432",
   "version": "0.12.0",
-  "description": "skhemata-storybook-widgetcode",
+  "description": "skhemata-storybook-widgetcode-432",
   "keywords": [
     "skhemata-storybook-widgetcode",
     "storybook-addons"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/skhemata/skhemata-storybook-widgetcode.git"
+    "url": "https://github.com/alexey432/custom-addon-432.git"
   },
-  "author": "skhemata-storybook-widgetcode <dev@devradius.com>",
+  "author": "alexey432",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
