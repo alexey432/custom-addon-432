@@ -17,7 +17,7 @@ export const withRoundTrip: DecoratorFunction = (storyFn) => {
             title:
               "You can specify a custom title for your addon panel and have full control over what content it renders",
             description:
-              "@storybook/components offers components to help you addons with the look and feel of Storybook itself",
+              "@storybook/components offers  components to help you addons with the look and feel of Storybook itself",
           },
         ],
         warning: [
